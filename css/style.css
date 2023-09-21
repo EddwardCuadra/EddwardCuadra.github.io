@@ -1,0 +1,13 @@
+:root {
+    --color1:#BA4B47;
+    --color2:#7A312F;
+    --color3:#FA645F;
+    --color4:#3B1716;
+    --color5:#E05A55;
+    --negro:#0c0c0c;
+    --blanco:#f3f3f3;
+}
+
+h1 {
+    color: var(--color2);
+}
